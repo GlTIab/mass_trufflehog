@@ -1,8 +1,8 @@
 ## Scan all the repositories of a specific profile on GitHub
 
-1. Install ```https://github.com/trufflesecurity/trufflehog```
+1. Install https://github.com/trufflesecurity/trufflehog
    
-2. Use ```https://github.com/GlTIab/github-repos-scraper/``` to scrape all the repositories. It will save all the repositories to target-repos.txt.
+2. Use https://github.com/GlTIab/github-repos-scraper/ to scrape all the repositories. It will save all the repositories to target-repos.txt.
    
 3. Run the ```mass_trufflehog.py``` script with:
    
