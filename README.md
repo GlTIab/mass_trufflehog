@@ -14,6 +14,6 @@ OR
 
 ```cd mass_trufflehog```
 
-```python3 - -command "trufflehog github --repo={}" target-repos.txt```
+```python3 mass_trufflehog.py -command "trufflehog github --repo={}" target-repos.txt```
 
 Enjoy!
