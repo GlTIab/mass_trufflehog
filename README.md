@@ -1,4 +1,5 @@
-## Scan all the repositories of a specific profile on GitHub
+# Scan all the repositories of a specific profile on GitHub 
+## Find and verify secrets
 
 1. Install https://github.com/trufflesecurity/trufflehog
    
